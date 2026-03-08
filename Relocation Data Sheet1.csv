@@ -1,0 +1,31 @@
+Id,State,County,District,liscensed_certified_librarian,media_specialist,Salary_Example,gifted_program,high_ranked_schools,prox_airport,military_hospital,income_tax,cost_of_3_bedroom,warm_weather
+1001,Alabama,Mobile,,88,117,"$45,000-$70,000",yes,yes,<10,<10,"yes, 5%","$1,515 ",yes
+1002,Alabama,Montgomery,,48,48,"$45,000-$70,000",yes,yes,<10,<10,"yes, 5%","$1,252 ",yes
+1003,California,Los Angeles,Los Angeles,*,135,"$60,000-$90,000",yes,yes,<10,<10,yes <5%,"$4,271 ",yes
+1004,California,San Diego,San Diego,,,"$58,000-$87,000",yes,yes,<10,<10,yes <5%,"$3,850 ",yes
+1005,California,san francisco,,,,"$66,000-$101,000",yes,yes,<10,<55,yes <5%,"$5,636 ",yes
+1006,California,fresno,,,,"$52,000-$80,000",yes,,<10,<35,yes <5%,"$1,931 ",yes
+1007,Florida,Broward ,Fort Lauderdale,*,133,"$46,000-$66,000",yes,yes,<10,<30,no,"$4,233 ",yes
+1008,Florida,Hillsborough,Hillsborough,*,216,"$46,000-$66,000",yes,mixed reviews,<10,<10,no,"$2,400 ",yes
+1009,Florida,Miami-Dade,*,*,110,"$47,000-$76,000",yes arts schools,yes,<10,<10,no,"$3,812 ",yes
+1010,Florida,Orange,,*,209,"$47,000-$69,000",yes arts schools,mixed reviews,<15,<55,no,"$2,416 ",yes
+1011,Florida,Palm Beach,Palm Beach,*,158,"$59,000 ",yes arts schools,yes,<10,<75,no,"$18,000 ",yes
+1013,Florida,Polk,,,79,"$45,000-$70,000",maybe,mixed reviews,<60,<60,no,"$1,800 ",yes
+1014,Hawaii,Honolulu,Honolulu,yes,80,"$66,000-$80,000",maybe,no,<10,<10,yes <5%,"$3,600 ",yes
+1015,Louisiana,Acadia Parish,Crowley,20,yes,$53000-$78000,no,no,<40,<100,"yes, <3%","$1,100 ",yes
+1016,Louisiana,Calcasieu Parish,,,62,"$45,000-$70,000",no,no,<20,<70,"yes, <3%","$1,100 ",yes
+1017,Louisiana,East Baton Rouge Parish,Baton Rouge,,65,"$53,000-$77,000",maybe,mixed reviews,<10,<100,"yes, <3%","$1,400 ",yes
+1018,Louisiana,St. Tammany Parish,St Tammany,,56,,no,mixed reviews,<60,<50,"yes, <3%","$1,900 ",yes
+1019,Oregon,Clackamas,,,,"$50,000-$96,000",yes,yes,<15,<110,"yes, <8%","$2,700 ",only in the summer
+1020,Oregon,Hood River,,,,"$50,000-$96,000",yes,yes,<60,<150,"yes, <8%","$1,241 ",only in the summer
+1021,Oregon,Jackson,Eagle Point,7,,"$50,000-$96,000",yes,mixed reviews,<10,<172,"yes, <8%","$2,250 ",only in the summer
+1022,Oregon,Multnomah Country,Portland,58,,"$50,000-$96,000",yes,yes,<10,<100,"yes, <8%","$2,300 ",only in the summer
+1024,Oregon,Multnomah Country,Reynolds,16,,"$50,000-$96,000",maybe,no,<10,<100,"yes, <8%","$2,300 ",only in the summer
+1026,Oregon,Warrenton/Astoria,Astoria,*,,*,yes,yes,,<10,"yes, <8%","$1,650 ",only in the summer
+1027,Oregon,Washington,beaverton,,,"$50,000-$96,000",yes,yes,<10,<95,"yes, <8%","$2,100 ",only in the summer
+1028,Washington,Clark,Ridgefield,,,"$70,246.42 - $125,476.64",yes,maybe,<30,<75,no,"$2,400 ",only in the summer
+1029,Washington,Cowlitx,,,,"$54,00-$79,000",yes,mixed reviews,<55,<65,no,"$2,000 ",only in the summer
+1030,Washington,Everett,,,,"$62,000-$89,000",yes,yes,<50,<10,no,"$2,300 ",only in the summer
+1031,Washington,King,bellevue,,67,"$52,000-$72,000",yes,yes,<15,<10,no,"$4,000 ",only in the summer
+1032,Washington,Kitsap,gig harbor/Bainbridge,,,"$59,000-$92,000",yes,yes,<65,<15,no,"$2,700 ",only in the summer
+1033,Washington,Pierce,,,,"$55,000-$80,000",yes,yes,<45,<30,no,"$2,800 ",only in the summer
